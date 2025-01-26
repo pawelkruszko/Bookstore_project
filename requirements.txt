@@ -7,3 +7,4 @@ crispy-bootstrap5==2024.10
 typing_extensions==4.12.2
 django-allauth==65.3.1
 environs[django]==14.1.0
+pillow==11.1.0
